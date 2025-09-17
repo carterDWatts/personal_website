@@ -1,0 +1,11 @@
+{
+    "title": "Example Article",
+    "author": "Carter Watts",
+    "date": "January 15, 2025",
+    "published": false,
+    "excerpt": "This is an example of how articles are structured. Writers just need to fill out this JSON format.",
+    "slug": "example-article",
+    "content": "This is the main content of the article.\n\nThis is a second paragraph. Writers can use double line breaks to separate paragraphs.\n\nThe system will automatically format this into proper HTML paragraphs.",
+    "tags": ["example", "demo"],
+    "category": "meta"
+}
